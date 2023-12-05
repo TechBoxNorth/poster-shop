@@ -49,15 +49,6 @@ body {
   padding: 40px 10px;
 }
 
-.card-large {
-  width: 40%;
-}
-
-.card-large .description {
-  background-color: white;
-  color: black;
-}
-
 .card-large div {
   background-color: white;
   color: black;
