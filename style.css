@@ -3,6 +3,12 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.nav-icon {
+  position: fixed;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
 header {
   display: flex;
   justify-content: center;
