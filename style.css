@@ -2,7 +2,27 @@
   margin: 0;
 }
 
+.cards {
+  background-color: black;
+}
+
 .card {
   background-color: black;
   color: white;
+  max-width: 300px;
+}
+
+.large {
+  background-color: white;
+  color: black;
+  max-width: 420px;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card button {
+  background-color: hotpink;
+  color: whitesmoke;
 }
