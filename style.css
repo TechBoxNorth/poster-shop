@@ -89,3 +89,33 @@ main {
   height: 32px;
   margin: 10px;
 }
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  background-color: rgb(87, 82, 82);
+  font-weight: bold;
+  height: 300px;
+}
+
+footer h2 {
+  font-size: 40px;
+  margin-top: 65px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.social {
+  display: flex;
+  justify-content: space-around;
+}
