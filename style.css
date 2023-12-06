@@ -4,18 +4,24 @@
 
 .cards {
   background-color: black;
+  max-width: 1020px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .card {
   background-color: black;
   color: white;
   max-width: 300px;
+  padding: 20px;
 }
 
 .large {
   background-color: white;
   color: black;
-  max-width: 420px;
+  max-width: 45%;
 }
 
 .card img {
