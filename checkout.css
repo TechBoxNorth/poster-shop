@@ -89,6 +89,25 @@ main {
   margin: 10px;
 }
 
+.shopping-list {
+  background-color: blueviolet;
+  color: white;
+  max-width: 942px;
+  margin: auto;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.row-1 {
+  background-color: rgb(87, 29, 29);
+  display: flex;
+  justify-content: space-between;
+}
+
+.row-1 div {
+  margin-right: 70px;
+}
+
 footer {
   display: flex;
   justify-content: space-around;
