@@ -97,12 +97,17 @@ main {
 }
 
 footer {
+  background-color: rgb(87, 82, 82);
+}
+
+.foot {
+  max-width: 942px;
   display: flex;
   justify-content: space-around;
   color: white;
-  background-color: rgb(87, 82, 82);
   font-weight: bold;
   height: 300px;
+  margin: auto;
 }
 
 footer h2 {
